@@ -4,7 +4,8 @@
   "description": "shopping list",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [
     "shopping",
@@ -18,5 +19,8 @@
   },
   "devDependencies": {
     "unirest": "^0.4.0"
+  }
+  "engines": {
+    "node": "0.10.x"
   }
 }
