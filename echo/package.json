@@ -1,0 +1,17 @@
+{
+  "name": "echo",
+  "version": "0.0.0",
+  "description": "echo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echo"
+  ],
+  "author": "dduma",
+  "license": "None",
+  "dependencies": {
+    "echo_server": "0.0.0"
+  }
+}
